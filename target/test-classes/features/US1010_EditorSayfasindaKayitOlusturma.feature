@@ -1,4 +1,3 @@
-@wip
 Feature: US1010 kullanici Scenerio Outline ile editor sayfasinda kayit olusturur
 
 
