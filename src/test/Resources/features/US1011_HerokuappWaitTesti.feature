@@ -1,4 +1,4 @@
-@wip
+
 
 Feature: US1011 Kullanici herokupp sayfasinda butonlarin gorunur oldugunu test eder
 
