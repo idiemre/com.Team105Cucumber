@@ -1,6 +1,6 @@
 
 Feature: Kullanici yanlis bilgilerle giris yapamaz
-
+  @p2
   Scenario: TC10 gecerli kullanici adi ve sifre ile Pozitif Login Testi
 
     Given kullanici "qdUrl" anasayfaya gider

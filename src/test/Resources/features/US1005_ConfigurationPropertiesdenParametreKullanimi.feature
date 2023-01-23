@@ -1,4 +1,5 @@
 
+
 Feature: US1005 Kullanici configuration.properties'de yazilan datalari parametre olarak kullanir
 
   # 3 Scenerio olusturp, amazon, wisequarter ve walmart anasayfalarina gidin

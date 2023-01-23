@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.11">
+    <testcase classname="Kullanici yanlis bilgilerle giris yapamaz" name="TC10 gecerli kullanici adi ve sifre ile Pozitif Login Testi" time="0.004">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given kullanici "qdUrl" anasayfaya gider....................................undefined
+Then ilk sayfa login linkine tiklar.........................................skipped
+And kullanici kutusuna "qdGecerliUsername" yazar............................skipped
+And password kutusuna "qdGecersizPassword" yazar............................skipped
+Then login butonuna basar...................................................skipped
+And giris yapilamadigini test eder..........................................skipped
+And 3 saniye bekler.........................................................skipped
+Then sayfayi kapatir........................................................skipped
+]]></failure>
+    </testcase>
+</testsuite>
